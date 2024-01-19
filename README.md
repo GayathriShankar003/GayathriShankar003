@@ -5,7 +5,7 @@ I am a Student
 - 🔭 Here's my [portfolio](https://gayathrishankar-portfolio.netlify.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me :
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gayathri-shankar-gayathri-shankar/)
 - 😄 Pronouns: Techie
 
 
